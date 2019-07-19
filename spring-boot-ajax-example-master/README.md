@@ -15,8 +15,8 @@ Tools used in this article :
 
 Home Page
 
-![Home Page](img/home.png "Home Page")
+![Home Page](img/home.PNG "Home Page")
 
 Search Page
 
-![Search Page](img/search.png "Search Page")
+![Search Page](img/search.PNG "Search Page")
